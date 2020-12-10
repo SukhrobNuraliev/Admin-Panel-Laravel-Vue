@@ -32920,6 +32920,13 @@ a.text-muted:hover {
   color: #ced4da;
 }@charset "UTF-8";
 
+.sidebar-dark-primary .nav-treeview .nav-item .nav-link.active,
+.sidebar-dark-primary .nav-treeview .nav-item .nav-link.active:focus,
+.sidebar-dark-primary .nav-treeview .nav-item .nav-link.active:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
 /*!
  * Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
